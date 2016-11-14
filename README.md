@@ -1,2 +1,1 @@
-# hello-world
-This is test project
+# hello-worlI made this test project for my learning
